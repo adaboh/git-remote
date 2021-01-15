@@ -2,9 +2,17 @@ body {
   background-color: steelblue;
 }
 
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  border: 1px solid #ccc;
+  max-width: max-content;
+  margin: 2rem auto;
+}
 
 .remote {
   color: #fff;
   font-size: 3.5rem;
   text-align: center;
+  color: #000;
 }
